@@ -1,0 +1,2 @@
+# Emacs dotfiles
+My .emacs!
